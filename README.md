@@ -49,7 +49,7 @@
  
 ライセンス
 ----------
-Copyright &copy; 2011 xxxxxx
+Copyright &copy; 2014 MAPconcierge Inc.
 Licensed under the [Apache License, Version 2.0][Apache]
 Distributed under the [MIT License][mit].
 Dual licensed under the [MIT license][MIT] and [GPL license][GPL].
